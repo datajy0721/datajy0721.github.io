@@ -11,7 +11,6 @@ cover-img: desertsahara-1480404542k4n8g.jpg
 
 **Juyeong** Hello world! &#128525;
 
-##Contact
 
 ```
 ##Email: datajy0721@gmail.com
