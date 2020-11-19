@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-blog
 title: Data Analysis Study
 subtitle: ...
 cover-img: desertsahara-1480404542k4n8g.jpg
