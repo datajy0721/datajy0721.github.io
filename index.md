@@ -11,9 +11,9 @@ cover-img: desertsahara-1480404542k4n8g.jpg
 
 **Juyeong** Hello world! &#128525;
 
-## Contact
+##Contact
 
 ```
-#Adress : Republic of Korea
-#Email: datajy0721@gmail.com
+##Adress : Republic of Korea
+##Email: datajy0721@gmail.com
 ```
