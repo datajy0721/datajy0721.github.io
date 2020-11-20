@@ -8,9 +8,9 @@ cover-img: desertsahara-1480404542k4n8g.jpg
 <br/>
 
 
-## **a simple blog** &#128525;
+##**a simple blog** &#128525;
 
 
-```
-contract: datajy0721@gmail.com
-```
+#```
+#contract: datajy0721@gmail.com
+#```
